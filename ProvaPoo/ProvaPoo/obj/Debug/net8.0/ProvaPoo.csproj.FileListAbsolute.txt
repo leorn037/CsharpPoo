@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\ProvaPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\ProvaPoo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\ProvaPoo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\ProvaPoo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\ProvaPoo.sourcelink.json
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\bin\Debug\net8.0\ProvaPoo.exe
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\bin\Debug\net8.0\ProvaPoo.deps.json
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\bin\Debug\net8.0\ProvaPoo.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\bin\Debug\net8.0\ProvaPoo.dll
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\bin\Debug\net8.0\ProvaPoo.pdb
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\ProvaPoo.dll
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\refint\ProvaPoo.dll
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\ProvaPoo.pdb
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\ProvaPoo.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Universidade Federal de Uberlândia\Git\ProvaPoo\ProvaPoo\obj\Debug\net8.0\ref\ProvaPoo.dll
