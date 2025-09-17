@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|c:\\users\\usuario\\onedrive - universidade federal de uberl\u00E2ndia\\git\\controle_de_estoque\\controle_de_estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|solutionrelative:controle_de_estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\controle_de_estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|solutionrelative:controle_de_estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|c:\\users\\usuario\\onedrive - universidade federal de uberl\u00E2ndia\\git\\controle_de_estoque\\controle_de_estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|solutionrelative:controle_de_estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\controle_de_estoque\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\controle_de_estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|solutionrelative:controle_de_estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|c:\\users\\usuario\\onedrive - universidade federal de uberl\u00E2ndia\\git\\controle_de_estoque\\controle_de_estoque\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A112BC9B-D746-429E-BCF8-74ABCAD6FA32}|Controle_de_Estoque\\Controle_de_Estoque.csproj|solutionrelative:controle_de_estoque\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,31 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\Controle_de_Estoque\\Form1.cs",
               "RelativeDocumentMoniker": "Controle_de_Estoque\\Form1.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\Controle_de_Estoque\\Form1.cs",
               "RelativeToolTip": "Controle_de_Estoque\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T12:48:08.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\Controle_de_Estoque\\Form1.cs",
               "RelativeDocumentMoniker": "Controle_de_Estoque\\Form1.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\Controle_de_Estoque\\Form1.cs [Design]",
               "RelativeToolTip": "Controle_de_Estoque\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T02:32:40.591Z"
+              "WhenOpened": "2025-08-18T02:32:40.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\Controle_de_Estoque\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Controle_de_Estoque\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - Universidade Federal de Uberl\u00E2ndia\\Git\\Controle_de_Estoque\\Controle_de_Estoque\\DatabaseConnection.cs",
+              "RelativeToolTip": "Controle_de_Estoque\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:59:33.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,7 +84,8 @@
               "RelativeToolTip": "Controle_de_Estoque\\Produto.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T12:44:07.831Z"
+              "WhenOpened": "2025-08-18T12:44:07.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,7 +97,8 @@
               "RelativeToolTip": "Controle_de_Estoque\\Fornecedor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T12:44:18.523Z"
+              "WhenOpened": "2025-08-18T12:44:18.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -90,7 +110,8 @@
               "RelativeToolTip": "Controle_de_Estoque\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T12:44:31.897Z"
+              "WhenOpened": "2025-08-18T12:44:31.897Z",
+              "EditorCaption": ""
             }
           ]
         }

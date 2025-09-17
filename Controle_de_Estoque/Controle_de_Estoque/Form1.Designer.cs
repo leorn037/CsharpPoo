@@ -574,7 +574,7 @@
             this.ClientSize = new System.Drawing.Size(1069, 460);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Controle de Estoque";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabProduto.ResumeLayout(false);
